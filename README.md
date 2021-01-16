@@ -14,7 +14,6 @@ pip install reqirements.txt
 
 #runserver
 python manage.py runserver
-
 ```
 
 ## frontend
